@@ -798,6 +798,170 @@ body {
 }
 
 /* ==========================================================================
+   TALKS PAGE STYLES
+   ========================================================================== */
+
+.talks-container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 4rem 2rem;
+}
+
+.talks-header {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.talks-header h1 {
+    font-size: 3rem;
+    font-weight: 700;
+    letter-spacing: -0.05em;
+}
+
+.talks-intro,
+.talks-status,
+.talks-empty {
+    color: var(--secondary-text);
+}
+
+.talks-status {
+    text-align: center;
+    margin: 1rem 0;
+}
+
+.talks-status:empty {
+    margin: 0;
+}
+
+.talks-status a {
+    color: var(--accent);
+}
+
+.talks-filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
+
+.talks-filters input,
+.talks-filters select {
+    padding: 0.75rem 1rem;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    font: 400 1rem 'Poppins', sans-serif;
+    color: var(--primary-text);
+    background: var(--card-bg);
+}
+
+.talks-filters input {
+    flex: 1 1 250px;
+}
+
+.talks-container h2 {
+    font-size: 2rem;
+    font-weight: 700;
+    margin: 2.5rem 0 1.5rem;
+}
+
+.talk-year h3 {
+    font-size: 1.5rem;
+    color: var(--accent);
+    margin: 2rem 0 1rem;
+}
+
+.talk-list {
+    list-style: none;
+}
+
+.talk {
+    overflow-wrap: anywhere;
+}
+
+.talk-date {
+    color: var(--secondary-text);
+    font-size: 0.875rem;
+    font-weight: 500;
+}
+
+.talk-title {
+    font-size: 1.05rem;
+    font-weight: 600;
+    line-height: 1.5;
+}
+
+.talk-title a {
+    color: var(--accent);
+    text-decoration: none;
+}
+
+.talk-title a:hover {
+    color: var(--accent-hover);
+    text-decoration: underline;
+}
+
+.talk-event {
+    color: var(--secondary-text);
+    font-size: 0.95rem;
+}
+
+/* Timeline */
+.talk-list {
+    border-left: 2px solid var(--border);
+    margin-left: 0.5rem;
+}
+
+.talk {
+    display: grid;
+    grid-template-columns: 7.5rem 1fr;
+    gap: 1rem;
+    padding: 0.875rem 0 0.875rem 1.5rem;
+    position: relative;
+}
+
+.talk::before {
+    content: '';
+    position: absolute;
+    left: -7px;
+    top: 1.25rem;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: var(--background);
+    border: 3px solid var(--accent);
+}
+
+.talk-date {
+    padding-top: 0.15rem;
+}
+
+#upcoming-talks .talk::before {
+    background: var(--accent);
+}
+
+@media (max-width: 600px) {
+    .talks-container {
+        padding: 2rem 1rem;
+    }
+
+    .talks-header h1 {
+        font-size: 2.25rem;
+    }
+
+    .talk {
+        grid-template-columns: 1fr;
+        gap: 0.25rem;
+    }
+
+    /* Let the shared header icons wrap on narrow screens */
+    .talks-page .strip > div,
+    .talks-page .social-icons {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
+
+/* ==========================================================================
    7. ANIMATIONS & EFFECTS
    ========================================================================== */
 

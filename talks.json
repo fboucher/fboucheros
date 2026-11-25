@@ -1,0 +1,476 @@
+[
+  {
+    "date": "2026-04-30",
+    "event": "GitHub Copilot Dev Days - Montreal",
+    "title": "Introduction à Squad: multiagent et skills",
+    "url": "https://www.meetup.com/msdevmtl/events/313279846"
+  },
+  {
+    "date": "2026-03-19",
+    "event": "Warsaw IT Days",
+    "title": "Your App Can See Now: What to Build with AI Vision",
+    "url": "https://warszawskiedniinformatyki.pl/"
+  },
+  {
+    "date": "2026-03-07",
+    "event": "MVP Conference Africa",
+    "title": "Quand vos apps apprennent à voir",
+    "url": "https://www.youtube.com/live/p81l3QhaTKA?si=y0CMFm5n3J1eHF49&t=19740"
+  },
+  {
+    "date": "2026-02-25",
+    "event": "Confoo 2026",
+    "title": "Can we use AI with .NET?",
+    "url": "https://confoo.ca/en/2026"
+  },
+  {
+    "date": "2026-02-25",
+    "event": "Confoo 2026",
+    "title": "Building agentic research assistants to search online for us",
+    "url": "https://confoo.ca/en/2026"
+  },
+  {
+    "date": "2025-11-25",
+    "event": "MsDevMtl",
+    "title": "Retour sur la .NET Conf",
+    "url": null
+  },
+  {
+    "date": "2025-11-21",
+    "event": "Global AI Singapore: Agentic Nights",
+    "title": "Blazor Meets AI: A Deep Dive into Real Code Implementation",
+    "url": null
+  },
+  {
+    "date": "2025-11-14",
+    "event": "AI Agent Conference",
+    "title": "Building Agentic Research Assistants to Search Online for Us",
+    "url": null
+  },
+  {
+    "date": "2025-10-21",
+    "event": "MsDevMtl",
+    "title": "Happy App: L'approche Bob Ross pour l'IA vision et recherche",
+    "url": null
+  },
+  {
+    "date": "2025-10-05",
+    "event": "TechWeek (San Francisco)",
+    "title": "Prompts to Pints",
+    "url": null
+  },
+  {
+    "date": "2025-09-14",
+    "event": "Agentic AI Conference",
+    "title": "Building Agentic Research Assistants with Reka",
+    "url": null
+  },
+  {
+    "date": "2025-03-11",
+    "event": "MsDevMtl Meetup",
+    "title": "Azure Container Apps et Azure Developer CLI (azd) pour les développeurs C#",
+    "url": null
+  },
+  {
+    "date": "2024-12-17",
+    "event": "MsDevMtl - Montreal",
+    "title": ".NET Conf 2024 MSDEVTML/Montreal",
+    "url": "https://www.meetup.com/msdevmtl/events/303960071"
+  },
+  {
+    "date": "2024-12-03",
+    "event": "AI Tour - Toronto",
+    "title": "Essential prompting for GitHub Copilot in VS Code",
+    "url": "https://aitour.microsoft.com/"
+  },
+  {
+    "date": "2024-11-18",
+    "event": ".NET Conf 2024",
+    "title": "Getting Started with OpenTelemetry in .NET",
+    "url": "https://www.youtube.com/watch?v=4xMIROBECRw&list=PLdo4fOcmZ0oXeSG8BgCVru3zQtw_K4ANY&index=83"
+  },
+  {
+    "date": "2024-10-26",
+    "event": "M365 Community Day - Montreal",
+    "title": "Créez des agents et étendez les expériences de copilote avec Copilot Studio",
+    "url": "https://www.meetup.com/guspquebec/events/296977768/"
+  },
+  {
+    "date": "2024-08-22",
+    "event": "DevOpsDays Halifax",
+    "title": "Keynote: Don't let AI or tools do all work for you",
+    "url": "https://devopsdays.org/events/2024-halifax/welcome/"
+  },
+  {
+    "date": "2024-06-28",
+    "event": "Let's Learn .NET (online)",
+    "title": "Let's Learn .NET Aspire (Français)",
+    "url": "https://www.youtube.com/watch?v=jJiqqVPDN4w"
+  },
+  {
+    "date": "2024-05-10",
+    "event": "Global Azure Bootcamp 2024 - Ville de Québec",
+    "title": "Introduction à Azure CLI Developer (AZD)",
+    "url": null
+  },
+  {
+    "date": "2024-04-30",
+    "event": "Azure Developers - .NET Day 2024 (online)",
+    "title": "Auto-Generate and Host Data API Builder on Azure Static Web Apps",
+    "url": "https://www.youtube.com/watch?v=7brvNO4NdvM&t=17845s"
+  },
+  {
+    "date": "2024-04-30",
+    "event": "Azure Developers - .NET Day 2024 (online)",
+    "title": "The most minimal API code of all... none",
+    "url": "https://www.youtube.com/watch?v=7brvNO4NdvM&t=20280s"
+  },
+  {
+    "date": "2023-10-25",
+    "event": "GitKon 2023",
+    "title": "It's So Simple! A Beginner's Guide to Ditching USB Keys & Embracing Git",
+    "url": "https://www.youtube.com/watch?v=qzYJfJtB81U&list=PLe6EXFvnTV79q6iGa7pt-tWEfCXD7T_YA&index=3&t=4028s"
+  },
+  {
+    "date": "2023-06-23",
+    "event": "Global Azure Bootcamp - Ville de Québec",
+    "title": "Comment transformer un API en Connecteur pour Power Platform",
+    "url": "https://www.meetup.com/azureqc/events/293609938"
+  },
+  {
+    "date": "2023-06-08",
+    "event": "Algonquin College",
+    "title": "What's the cloud and why should I care",
+    "url": null
+  },
+  {
+    "date": "2020-05-05",
+    "event": "Microsoft Ignite The Tour - Stockholm",
+    "title": "Microsoft Ignite The Tour",
+    "url": "https://www.microsoft.com/en-ca/ignite-the-tour/"
+  },
+  {
+    "date": "2020-04-08",
+    "event": "Microsoft Ignite The Tour - Bangalore",
+    "title": "Microsoft Ignite The Tour",
+    "url": "https://www.microsoft.com/en-ca/ignite-the-tour/"
+  },
+  {
+    "date": "2020-04-02",
+    "event": "Microsoft Ignite The Tour - Mumbai",
+    "title": "Microsoft Ignite The Tour",
+    "url": "https://www.microsoft.com/en-ca/ignite-the-tour/"
+  },
+  {
+    "date": "2020-03-25",
+    "event": "Microsoft Ignite The Tour - Madrid (canceled)",
+    "title": "APPS10 - Options for Building and Running Your App in the Cloud",
+    "url": "https://github.com/microsoft/ignite-learning-paths-training-apps/tree/master/apps10"
+  },
+  {
+    "date": "2020-03-25",
+    "event": "Microsoft Ignite The Tour - Madrid (canceled)",
+    "title": "AFUN95 - Figuring Out Azure Functions",
+    "url": "https://github.com/microsoft/ignite-learning-paths-training-afun/tree/master/afun95"
+  },
+  {
+    "date": "2020-03-04",
+    "event": "Microsoft Ignite The Tour - Zurich (canceled)",
+    "title": "APPS50 - Taking Your App to the Next Level with Monitoring, Performance and Scaling",
+    "url": "https://github.com/microsoft/ignite-learning-paths-training-apps/tree/master/apps50"
+  },
+  {
+    "date": "2020-03-04",
+    "event": "Microsoft Ignite The Tour - Zurich (canceled)",
+    "title": "AFUN95 - Figuring Out Azure Functions",
+    "url": "https://github.com/microsoft/ignite-learning-paths-training-afun/tree/master/afun95"
+  },
+  {
+    "date": "2020-02-27",
+    "event": "Microsoft Ignite The Tour - Copenhagen",
+    "title": "APPS50 - Taking Your App to the Next Level with Monitoring, Performance and Scaling",
+    "url": "https://github.com/microsoft/ignite-learning-paths-training-apps/tree/master/apps50"
+  },
+  {
+    "date": "2020-02-27",
+    "event": "Microsoft Ignite The Tour - Copenhagen",
+    "title": "MOD40 - Debugging and Interacting with Production Applications",
+    "url": "https://github.com/microsoft/ignite-learning-paths-training-mod/tree/master/mod40"
+  },
+  {
+    "date": "2020-02-27",
+    "event": "Microsoft Ignite The Tour - Copenhagen",
+    "title": "MOD41 - Deploying and A/B testing without risks with deployment slot",
+    "url": "https://github.com/microsoft/ignite-learning-paths-training-mod/tree/master/mod41"
+  },
+  {
+    "date": "2020-02-25",
+    "event": "WUG Meetup - Prague",
+    "title": "GitHub to Azure Serverless Automatically",
+    "url": "https://github.com/FBoucher/GitHub-to-Azure-Serverless-Automatically"
+  },
+  {
+    "date": "2020-02-24",
+    "event": "Czechitas Meetup - Prague",
+    "title": "Panel Discussion: My IT career (Microsoft speakers)",
+    "url": "https://www.czechitas.cz/en/calendar/event/19896/"
+  },
+  {
+    "date": "2020-02-24",
+    "event": "Microsoft Ignite The Tour - Prague",
+    "title": "MOD10 - Migrating Web Applications to Azure",
+    "url": "https://github.com/microsoft/ignite-learning-paths-training-mod/tree/master/mod10"
+  },
+  {
+    "date": "2020-02-24",
+    "event": "Microsoft Ignite The Tour - Prague",
+    "title": "MOD30 - Enhancing Web Applications with Cloud Intelligence",
+    "url": "https://github.com/microsoft/ignite-learning-paths-training-mod/tree/master/mod30"
+  },
+  {
+    "date": "2020-02-24",
+    "event": "Microsoft Ignite The Tour - Prague",
+    "title": "APPS50 - Taking Your App to the Next Level with Monitoring, Performance and Scaling",
+    "url": "https://github.com/microsoft/ignite-learning-paths-training-apps/tree/master/apps50"
+  },
+  {
+    "date": "2020-01-27",
+    "event": "Microsoft Ignite The Tour - Milan",
+    "title": "MOD10 - Migrating Web Applications to Azure",
+    "url": "https://github.com/microsoft/ignite-learning-paths-training-mod/tree/master/mod10"
+  },
+  {
+    "date": "2020-01-27",
+    "event": "Microsoft Ignite The Tour - Milan",
+    "title": "MOD30 - Enhancing Web Applications with Cloud Intelligence",
+    "url": "https://github.com/microsoft/ignite-learning-paths-training-mod/tree/master/mod30"
+  },
+  {
+    "date": "2020-01-27",
+    "event": "Microsoft Ignite The Tour - Milan",
+    "title": "MOD41 - Deploying and A/B testing without risks with deployment slot",
+    "url": "https://github.com/microsoft/ignite-learning-paths-training-mod/tree/master/mod41"
+  },
+  {
+    "date": "2020-01-08",
+    "event": "Microsoft Ignite The Tour - Toronto",
+    "title": "MOD10 - Migrating Web Applications to Azure",
+    "url": "https://github.com/microsoft/ignite-learning-paths-training-mod/tree/master/mod10"
+  },
+  {
+    "date": "2020-01-08",
+    "event": "Microsoft Ignite The Tour - Toronto",
+    "title": "MOD30 - Enhancing Web Applications with Cloud Intelligence",
+    "url": "https://github.com/microsoft/ignite-learning-paths-training-mod/tree/master/mod30"
+  },
+  {
+    "date": "2020-01-08",
+    "event": "Microsoft Ignite The Tour - Toronto",
+    "title": "MOD41 - Deploying and A/B testing without risks with deployment slot",
+    "url": "https://github.com/microsoft/ignite-learning-paths-training-mod/tree/master/mod41"
+  },
+  {
+    "date": "2019-12-10",
+    "event": "Microsoft Ignite The Tour - Beijing",
+    "title": "MOD20 - Moving Your Database to Azure",
+    "url": "https://github.com/microsoft/ignite-learning-paths-training-mod/tree/master/mod20"
+  },
+  {
+    "date": "2019-12-10",
+    "event": "Microsoft Ignite The Tour - Beijing",
+    "title": "AFUN95 - Figuring Out Azure Functions",
+    "url": "https://github.com/microsoft/ignite-learning-paths-training-afun/tree/master/afun95"
+  },
+  {
+    "date": "2019-11-28",
+    "event": "Microsoft Reactor Toronto - Meetup",
+    "title": "Mission: Create a CI-CD to deploy an ARM template with Azure DevOps",
+    "url": "https://www.meetup.com/Microsoft-Reactor-Toronto/events/265347321/"
+  },
+  {
+    "date": "2019-11-13",
+    "event": "Microsoft Ignite The Tour - Paris",
+    "title": "APPS10 - Options for Building and Running Your App in the Cloud",
+    "url": "https://github.com/microsoft/ignite-learning-paths-training-apps/tree/master/apps10"
+  },
+  {
+    "date": "2019-11-13",
+    "event": "Microsoft Ignite The Tour - Paris",
+    "title": "MOD10 - Migrating Web Applications to Azure",
+    "url": "https://github.com/microsoft/ignite-learning-paths-training-mod/tree/master/mod10"
+  },
+  {
+    "date": "2019-11-13",
+    "event": "Microsoft Ignite The Tour - Paris",
+    "title": "APPS50 - Taking Your App to the Next Level with Monitoring, Performance and Scaling",
+    "url": "https://github.com/microsoft/ignite-learning-paths-training-apps/tree/master/apps50"
+  },
+  {
+    "date": "2019-11-13",
+    "event": "Microsoft Ignite The Tour - Paris",
+    "title": "APPS11 - 15 Minutes: Azure and the command line – options, tips and tricks",
+    "url": "https://github.com/microsoft/ignite-learning-paths-training-apps/tree/master/apps11"
+  },
+  {
+    "date": "2019-11-13",
+    "event": "Microsoft Ignite The Tour - Paris",
+    "title": "AFUN95 - Figuring Out Azure Functions",
+    "url": "https://github.com/microsoft/ignite-learning-paths-training-afun/tree/master/afun95"
+  },
+  {
+    "date": "2019-11-12",
+    "event": "Dev Talks .Net Meetup - Paris",
+    "title": ".NET Core, Docker & IA avec Frank Boucher & Laurent Bugnion",
+    "url": "https://www.meetup.com/DevTalks-Net/events/266022613/"
+  },
+  {
+    "date": "2019-11-04",
+    "event": "Microsoft Ignite 2019 - Orlando",
+    "title": "APPS10 - Options for Building and Running Your App in the Cloud",
+    "url": "https://github.com/microsoft/ignite-learning-paths-training-apps/tree/master/apps10"
+  },
+  {
+    "date": "2019-11-04",
+    "event": "Microsoft Ignite 2019 - Orlando",
+    "title": "AFUN95 - Figuring Out Azure Functions",
+    "url": "https://github.com/microsoft/ignite-learning-paths-training-afun/tree/master/afun95"
+  },
+  {
+    "date": "2018-11-28",
+    "event": "Azure DevOps Community Launch - Ottawa",
+    "title": "Two live demos building a CI/CD with Azure DevOps",
+    "url": "https://youtu.be/jRgLSMlp28U"
+  },
+  {
+    "date": "2018-10-30",
+    "event": "Groupe Azure - Montreal",
+    "title": "Retour sur Ignite pour Azure",
+    "url": "https://www.meetup.com/msdevmtl/events/255593420/"
+  },
+  {
+    "date": "2018-04-21",
+    "event": "Global Azure Bootcamp 2018 - Ottawa",
+    "title": "Global Azure Bootcamp 2018",
+    "url": "https://github.com/MSDEVMTL/GlobalAzureBootcamp2018"
+  },
+  {
+    "date": "2018-02-20",
+    "event": "Ottawa IT Community Meetup",
+    "title": "Enhance your App with Azure Cognitive Services",
+    "url": "https://www.meetup.com/ottawaitcommunity/events/244085284/"
+  },
+  {
+    "date": "2017-11-22",
+    "event": "Ottawa Data Science Meetup",
+    "title": "Predicting Churn & Power BI",
+    "url": "https://www.slideshare.net/secret/84VqZBGZzAj1b"
+  },
+  {
+    "date": "2017-11-09",
+    "event": "Azure Bootcamp - Quebec",
+    "title": "Azure Bootcamp ASP.NET Core & DevOps",
+    "url": "https://github.com/FBoucher/Bootcamp-Azure-Asp.Net-Core-DevOps"
+  },
+  {
+    "date": "2017-10-18",
+    "event": "Ottawa Cloud Tech - Ottawa",
+    "title": "Blockchain in the Cloud",
+    "url": "https://www.meetup.com/OttCloudTech/events/242285017/"
+  },
+  {
+    "date": "2017-10-10",
+    "event": "MsDevMtl - Montreal",
+    "title": "Revue Ignite façon maison",
+    "url": "https://www.meetup.com/msdevmtl/events/243389663/"
+  },
+  {
+    "date": "2017-07-06",
+    "event": "DevTeach Montreal DevCon",
+    "title": "Enhance your App with Azure Cognitive Services",
+    "url": "http://www.devteach.com/"
+  },
+  {
+    "date": "2017-04-22",
+    "event": "Global Azure Bootcamp 2017 - Ottawa",
+    "title": "Global Azure Bootcamp 2017",
+    "url": "https://github.com/FBoucher/GlobalAzureBootcamp"
+  },
+  {
+    "date": "2017-03-20",
+    "event": "Groupe Azure MsDevMtl - Montreal",
+    "title": "Azure Function",
+    "url": "https://www.meetup.com/msdevmtl/events/237917338/"
+  },
+  {
+    "date": "2017-02-08",
+    "event": "Ottawa Cloud Tech - Ottawa",
+    "title": "Connecting to the Cloud | Security",
+    "url": "https://www.slideshare.net/fboucheros/cloud-security-71956775"
+  },
+  {
+    "date": "2016-12-02",
+    "event": "MsDevMtl - Montreal",
+    "title": "Azure API Management",
+    "url": "https://www.meetup.com/msdevmtl/events/234073927/"
+  },
+  {
+    "date": "2016-10-03",
+    "event": "MsDevMtl - Montreal",
+    "title": "Qu'est ce qui est IN et OUT sur Azure",
+    "url": "https://www.meetup.com/msdevmtl/events/234073612/"
+  },
+  {
+    "date": "2016-07-06",
+    "event": "DevTeach Montreal DevCon",
+    "title": "Azure Redis Cache - Cache on Steroids!",
+    "url": "http://www.slideshare.net/fboucheros/azure-redis-cache-cache-on-steroids"
+  },
+  {
+    "date": "2016-07-05",
+    "event": "DevTeach Montreal DevCon",
+    "title": "Connect the impossible with Logic App",
+    "url": "http://www.slideshare.net/fboucheros/connect-the-impossible-with-azure-logic-app"
+  },
+  {
+    "date": "2016-04-27",
+    "event": "Ottawa Cloud Tech - Ottawa",
+    "title": "Ottawa Cloud Tech Kick Off meeting!",
+    "url": "http://www.meetup.com/OttCloudTech/events/229637835/"
+  },
+  {
+    "date": "2016-04-16",
+    "event": "Global Azure Bootcamp - Montreal",
+    "title": "A practical overview of Service Fabric",
+    "url": "http://www.meetup.com/msdevmtl/events/223840152/"
+  },
+  {
+    "date": "2015-11-12",
+    "event": "Ottawa IT Community Meetup",
+    "title": "Microsoft Azure Redis cache & Application Insights",
+    "url": "http://www.slideshare.net/fboucheros/application-insights-the-ultimate-tool"
+  },
+  {
+    "date": "2015-04-25",
+    "event": "Global Windows Azure Bootcamp - Montréal",
+    "title": "Global Windows Azure Bootcamp",
+    "url": "http://global.azurebootcamp.net/locations/canada-montreal/"
+  },
+  {
+    "date": "2015-01-15",
+    "event": "Ottawa IT Community Meetup",
+    "title": "Community Viewing Party",
+    "url": "http://www.meetup.com/ottawaitcommunity/events/225499568/?eventId=225499568"
+  },
+  {
+    "date": "2015-01-15",
+    "event": "Microsoft Azure Catch-up - Minsk",
+    "title": "Microsoft Azure Catch-up",
+    "url": "http://www.slideshare.net/fboucheros/azure-catch-up"
+  },
+  {
+    "date": "2013-04-27",
+    "event": "Global Windows Azure Bootcamp - Montréal",
+    "title": "Mobile services",
+    "url": "https://github.com/Azure-Readiness/MicrosoftAzureTrainingKit/tree/master/Decks/PRESENTATION-BuildingAndroidAppsWithWindowsAzureMobileServices"
+  }
+]
