@@ -837,31 +837,6 @@ body {
     color: var(--accent);
 }
 
-.look-switcher {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 0.5rem;
-    margin-bottom: 1.5rem;
-    color: var(--secondary-text);
-}
-
-.look-switcher button {
-    background: var(--card-bg);
-    color: var(--secondary-text);
-    border: 1px solid var(--border);
-    border-radius: 8px;
-    padding: 0.5rem 1rem;
-    font: 500 0.95rem 'Poppins', sans-serif;
-    cursor: pointer;
-}
-
-.look-switcher button.active {
-    background: var(--accent);
-    border-color: var(--accent);
-    color: white;
-}
-
 .talks-filters {
     display: flex;
     flex-wrap: wrap;
@@ -930,13 +905,13 @@ body {
     font-size: 0.95rem;
 }
 
-/* Talks Look 1 - Timeline */
-.talks-timeline .talk-list {
+/* Timeline */
+.talk-list {
     border-left: 2px solid var(--border);
     margin-left: 0.5rem;
 }
 
-.talks-timeline .talk {
+.talk {
     display: grid;
     grid-template-columns: 7.5rem 1fr;
     gap: 1rem;
@@ -944,7 +919,7 @@ body {
     position: relative;
 }
 
-.talks-timeline .talk::before {
+.talk::before {
     content: '';
     position: absolute;
     left: -7px;
@@ -956,59 +931,12 @@ body {
     border: 3px solid var(--accent);
 }
 
-.talks-timeline .talk-date {
+.talk-date {
     padding-top: 0.15rem;
 }
 
-.talks-timeline #upcoming-talks .talk::before {
+#upcoming-talks .talk::before {
     background: var(--accent);
-}
-
-/* Talks Look 2 - Cards */
-.talks-cards .talks-container {
-    max-width: 1200px;
-}
-
-.talks-cards .talk-list {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(min(300px, 100%), 1fr));
-    gap: 1.5rem;
-}
-
-.talks-cards .talk {
-    display: flex;
-    flex-direction: column;
-    gap: 0.75rem;
-    background: var(--card-bg);
-    border: 1px solid var(--border);
-    border-top: 4px solid var(--accent);
-    border-radius: 12px;
-    padding: 1.5rem;
-    transition: all 0.2s ease;
-}
-
-.talks-cards .talk:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 10px 20px var(--shadow-md);
-}
-
-.talks-cards .talk-date {
-    align-self: flex-start;
-    background: var(--background-alt);
-    border-radius: 999px;
-    padding: 0.2rem 0.75rem;
-}
-
-.talks-cards .talk-body {
-    display: flex;
-    flex-direction: column;
-    flex: 1;
-    justify-content: space-between;
-    gap: 0.75rem;
-}
-
-.talks-cards #upcoming-talks .talk {
-    border-color: var(--accent);
 }
 
 @media (max-width: 600px) {
@@ -1020,16 +948,14 @@ body {
         font-size: 2.25rem;
     }
 
-    .talks-timeline .talk {
+    .talk {
         grid-template-columns: 1fr;
         gap: 0.25rem;
     }
 
     /* Let the shared header icons wrap on narrow screens */
-    .talks-timeline .strip > div,
-    .talks-cards .strip > div,
-    .talks-timeline .social-icons,
-    .talks-cards .social-icons {
+    .talks-page .strip > div,
+    .talks-page .social-icons {
         flex-wrap: wrap;
         justify-content: center;
     }

@@ -14,30 +14,6 @@ function toggleTheme() {
     document.documentElement.setAttribute('data-theme', theme);
 })();
 
-// Look switcher (temporary, until a favorite look is chosen)
-// Use talks.html?look=timeline or talks.html?look=cards to link to a specific look.
-const looks = ['timeline', 'cards'];
-
-function switchLook(look) {
-    looks.forEach(name => document.body.classList.toggle(`talks-${name}`, name === look));
-    document.querySelectorAll('.look-switcher button').forEach(btn => {
-        const active = btn.dataset.look === look;
-        btn.classList.toggle('active', active);
-        btn.setAttribute('aria-pressed', active);
-    });
-    localStorage.setItem('talksLook', look);
-}
-
-(function() {
-    const requested = new URLSearchParams(window.location.search).get('look') ||
-        localStorage.getItem('talksLook');
-    switchLook(looks.includes(requested) ? requested : looks[0]);
-
-    document.querySelectorAll('.look-switcher button').forEach(btn => {
-        btn.addEventListener('click', () => switchLook(btn.dataset.look));
-    });
-})();
-
 // Today's date as YYYY-MM-DD in the visitor's time zone
 function getToday() {
     const now = new Date();
